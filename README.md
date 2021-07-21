@@ -1,6 +1,6 @@
 # Enumerate Yolo
 
-This tool is used to data preperation for YOLOV3 image recognition training.
+This tool is used for data preparation for YOLOV3 image recognition training.
 
 # Usage 
 
@@ -13,5 +13,5 @@ where
 For example:  
 `data\obj\7513062eb6bf0f06d20230aef126b5dc.jpg` is a string with a `limiter` number 3  
 `obj\7513062eb6bf0f06d20230aef126b5dc.jpg` is a string with a `limiter` number 2  
-Real example:  
+## Example:  
 `python enumerateyolo.py "E:\Documents\NumberPlate\obj" "E:\Documents\NumberPlate\txt.txt" 2`  
